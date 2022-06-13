@@ -1,21 +1,5 @@
 # Responsividade 
-
-Fala Dev! 💜
-
-Responsividade é um assunto muito importante para que nosso layout seja flexível, conforme o dispositivo que o está acessando, seja ele smartphone, tablet ou desktop. (E até mesmo, a impressora sabia?)
-
-Na Masterclass de hoje, vamos usar estratégias de CSS Units para que tanto o nosso Layout, quanto os nossos textos, fiquem fluidos. 
-
-Utilizaremos também CSS Media Queries para adicionar CSS customizados conforme o breakpoint definido, para que nosso layout fique adaptado ao viewport do dispositivo. 
-
-Além do mais, veremos atributos e tags HTML especiais, para que possamos obter sucesso ao tornar nosso layout responsivo.
-
-Se você ainda não sabe muito bem como fazer layouts responsivos, está começando nesse assunto, está um pouco inseguro, fique tranquilo, vem comigo que eu vou tirar suas dúvidas!
-
-Espero que faça sentido pra você. 🥰
-
-Bora codar? 🚀 
-
+Projeto sugerido pela Rocketseat
 ## CSS Units
 
 Unidades de medidas do CSS
@@ -39,7 +23,7 @@ Texto fluidos
 
 ## CSS Media Queries 
 
-No HTMl eu coloco a seguinte tag meta
+No HTML eu coloco a seguinte tag meta
 
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
